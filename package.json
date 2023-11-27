@@ -12,6 +12,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@onemjj/npm-ws": "latest"
+    "@onemjj/npm-ws": "9.9.9"
   }
 }
